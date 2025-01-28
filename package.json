@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "uuid": "^11.0.5",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
